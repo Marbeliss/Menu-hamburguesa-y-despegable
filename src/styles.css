@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+.w100 {
+
+  width: 100%;
+}
+
+.pd0 {
+
+  padding: 0;
+}
+
+.mw {
+  max-width: 100%;
+  margin: 0;
+}
+
